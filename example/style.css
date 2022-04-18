@@ -1,0 +1,35 @@
+.button1 {
+  width: 10rem;
+  height: 5rem;
+  background: tomato;
+  border-radius: 10px;
+  border: none;
+}
+.button2 {
+  width: 10rem;
+  height: 5rem;
+  background: darkcyan;
+  border-radius: 10px;
+  border: none;
+}
+.button3 {
+  width: 10rem;
+  height: 5rem;
+  background: seagreen;
+  border-radius: 10px;
+  border: none;
+}
+.button4 {
+  width: 10rem;
+  height: 5rem;
+  background: orange;
+  border-radius: 10px;
+  border: none;
+}
+.button5 {
+  width: 10rem;
+  height: 5rem;
+  background: pink;
+  border-radius: 10px;
+  border: none;
+}
